@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TitaniumBrowser
+- 👋 Hi, Welcome to PenguinByte Projects!
 - 👀 I’m currently working on an independent Linux distro.
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate via email.
